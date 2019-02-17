@@ -20,6 +20,7 @@
 Однак, на сайті проекту [Jupyter](https://jupyter.org/) рекомендують встановлювати дистрибутив **Python** від платформи [Anaconda](https://www.anaconda.com/).
 Цей дистрибутив встановлює **Python**, **Jupyter Notebook** та багато бібліотек, які знадобляться в майбутньому.
 Тому далі буде наведено порядок дій для встановлення та використання програм **Anaconda** та **Git**.
+Також можна подивитися відповідні відео-іструкції, що знаходяться в папці [Tutorials](https://github.com/Slavastas119/Probability-Theory-2-year-students/tree/master/Tutorials).
 
 ### Завантаження Anaconda3
 - Переходимо на сайт завантаження дистрибутивів Anaconda [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/).
